@@ -38,7 +38,7 @@ A full stack mental wellness platform designed to spread mental health awareness
 🔗 Live Demo:
 🔗 Repository Link:
 
-### AI Sloth Generator
+### 🦥 AI Sloth Generator
 An AI-powered web application that generates unique sloth-themed images and creative content based on user prompts.
 **Tech Used:** Python, FastAPI, React.js, JavaScript, HTML, CSS, AI Image Generation APIs
 
