@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello, I'm Diksha Bharti 
 
-<!--
-**Dikshabharti06/dikshabharti06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student at GGV Bilaspur  
+💻 Full Stack Developer | Python & MERN Stack Enthusiast 
+🤖 Interested in AI and Software Development
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- App Development
+- DSA for Placements
+- AI-powered applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- C++
+- JAVA
+- HTML/CSS
+- JavaScript
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- SQL
+- Git & GitHub
+
+## 📌 Featured Projects
+
+### 🍔 Food Fusion
+A full stack food ordering platform that allows users to explore menus, place orders, and manage food delivery seamlessly through an interactive user interface.
+**Tech Used:** HTML, CSS, JavaScript, Backend Integration, Database
+🔗 Live Demo:
+🔗 Repository Link:
+
+### 🧠 Mental Health Website
+A full stack mental wellness platform designed to spread mental health awareness and provide supportive resources through an accessible and user-friendly interface.
+**Tech Used:** HTML, CSS, JavaScript, Backend Development, Database
+🔗 Live Demo:
+🔗 Repository Link:
+
+## 🌱 Currently Working On
+- AI Sloth Generator
+- DSA Preparation
+- Backend API Development
+
+## 📫 Connect With Me
+- LinkedIn: http://www.linkedin.com/in/diksha-bharti-06sep05
+- Email: dikshabharti0609@gmail.com
