@@ -69,4 +69,64 @@ Full-stack platform providing mental health awareness and supportive resources.
 
 | | |
 |---|---|
-| 💬 **Languages** |
+| 💬 **Languages** | Python, C++, JavaScript, SQL |
+| 🎨 **Frontend** | HTML, CSS, JavaScript, React.js |
+| ⚙️ **Backend** | Python, FastAPI, REST APIs |
+| 🗄️ **Databases** | PostgreSQL, SQLAlchemy |
+| 🤖 **GenAI** | LLM APIs, Prompt Engineering, Embeddings, RAG, Vector Databases, AI Agents |
+| 🔧 **Tools** | Git, GitHub, Docker |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&hide_rank=false" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+## 🎯 Currently Learning
+
+- 🐍 Python backend development with FastAPI
+
+- 🔐 PostgreSQL, SQLAlchemy & JWT authentication
+
+- 🔌 REST API development & testing
+
+- 🤖 Generative AI & LLM applications
+
+- 📚 RAG, embeddings & vector databases
+
+- 🛠️ AI agents & tool calling
+
+- 🐳 Docker & backend deployment
+
+- ⚡ Data Structures & Algorithms
+
+<br/>
+
+## 🏁 Goal
+
+Building strong **Full-Stack, Backend & GenAI projects** while improving DSA and preparing for **Software Developer / Backend / GenAI internships and placements**.
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diksha-bharti-06sep05)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dikshabharti0609@gmail.com)
+
+📧 dikshabharti0609@gmail.com
+
+</div>
