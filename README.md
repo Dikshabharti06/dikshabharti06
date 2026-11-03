@@ -16,14 +16,7 @@
 
 ## ✨ About
 
-🎓 BTech CSE student at **GGV Bilaspur**
-
-💻 Full Stack Developer | Python Backend Developer
-
-🤖 Learning **Generative AI** and building AI-powered applications
-
-🧩 Practicing **DSA** to prepare for software development placements
-
+I'm a Full-Stack Developer and Python enthusiast passionate about building scalable web applications, robust backend systems, and AI-powered solutions. I have experience working across the development stack, from creating responsive and interactive user interfaces using React, JavaScript, and Tailwind CSS to developing backend applications and REST APIs using Python and FastAPI.
 <br/>
 
 ## 🚀 Featured Projects
@@ -79,30 +72,9 @@ Full-stack platform providing mental health awareness and supportive resources.
 
 <br/>
 
-## 🎯 Currently Learning
-
-- 🐍 Python backend development with FastAPI
-
-- 🔐 PostgreSQL, SQLAlchemy & JWT authentication
-
-- 🔌 REST API development & testing
-
-- 🤖 Generative AI & LLM applications
-
-- 📚 RAG, embeddings & vector databases
-
-- 🛠️ AI agents & tool calling
-
-- 🐳 Docker & backend deployment
-
-- ⚡ Data Structures & Algorithms
-
-<br/>
-
 ## 🏁 Goal
 
-Building strong **Full-Stack, Backend & GenAI projects** while improving DSA and preparing for **Software Developer / Backend / GenAI internships and placements**.
-
+Focused on building impactful **Full-Stack applications, scalable backend systems, and AI-powered solutions**, while strengthening problem-solving and DSA skills. Aspiring to contribute to real-world software projects and pursue opportunities in **Software Development, Backend Engineering, and Generative AI** through internships and placements.
 <br/>
 
 ## 📫 Connect
