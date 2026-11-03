@@ -1,8 +1,6 @@
 <div align="center">
 
-# Diksha Bharti
-
-**Full Stack Developer | Python Backend Developer | GenAI Enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=230&section=header&text=Diksha%20Bharti&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20%7C%20Python%20Backend%20%7C%20GenAI&descSize=18&descAlignY=60" alt="Diksha Bharti" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end+to+end;Python+%C2%B7+FastAPI+%C2%B7+GenAI+%C2%B7+RAG;Clean+APIs.+Thoughtful+interfaces." alt="typing intro" />
 
@@ -75,21 +73,6 @@ Full-stack platform providing mental health awareness and supportive resources.
 | 🗄️ **Databases** | PostgreSQL, SQLAlchemy |
 | 🤖 **GenAI** | LLM APIs, Prompt Engineering, Embeddings, RAG, Vector Databases, AI Agents |
 | 🔧 **Tools** | Git, GitHub, Docker |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&hide_rank=false" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-
-</div>
 
 <br/>
 
